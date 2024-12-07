@@ -1,0 +1,10 @@
+.bash_logout
+.docker/
+.hushlogin
+.lesshst
+.profile
+.tig_history
+.viminfo
+bench/
+initial_data/
+tmp/
